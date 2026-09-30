@@ -3,6 +3,7 @@ name = "poker-manager"
 version = "0.1.0"
 description = "Poker Manager - preflop range creator"
 edition = "2021"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

@@ -22,3 +22,7 @@ Planned features:
 | `npm run dist` | Build the app and copy the executable into `dist/` (gitignored) |
 
 Saved ranges are stored locally in `ranges/` (created automatically, gitignored).
+
+## License
+
+[MIT](LICENSE)
