@@ -9,7 +9,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "tauri": "tauri",
-    "test": "vitest run --passWithNoTests",
+    "test": "vitest run",
     "dist": "tauri build && node scripts/dist.mjs"
   },
   "dependencies": {
